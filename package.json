@@ -1,0 +1,19 @@
+{
+  "name": "pdt-ce",
+  "version": "0.1.0",
+  "description": "FoundryVTT Package Development Tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ulenarofmondarth/pdt-ce.git"
+  },
+  "author": "UlenarOfMondarth",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/ulenarofmondarth/pdt-ce/issues"
+  },
+  "homepage": "https://github.com/ulenarofmondarth/pdt-ce#readme"
+}
